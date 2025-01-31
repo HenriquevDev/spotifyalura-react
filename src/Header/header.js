@@ -1,4 +1,5 @@
 import React from "react";
+import "../reset.css"
 import "./header.css";
 import smallLeft from '../assets/icons/small-left.png'
 import smallRight from '../assets/icons/small-right.png'
